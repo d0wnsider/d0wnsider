@@ -8,7 +8,7 @@
 <div align="center">
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,unity,blender,ps" />
+		<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,unity,blender,ps" />
 	</a>
 <div/>
 <br>
