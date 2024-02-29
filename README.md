@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, Welcome! 👋</h1>
   <h2>About me</h2>
-  💻 I am currently learning on <a href="https://www.theodinproject.com/">The Odin Project Curriculum<a/> 💻<br>
+  💻 I am currently learning web dev on <a href="https://sites.google.com/nypl.org/techconnect/programs/project-code-phase-2">NYPL Project Code Front-end Web Development Phase 2<a/> and <a href="https://www.theodinproject.com/">The Odin Project Curriculum<a/> 💻<br>
 </div>
 <div align="center">
   <h2>Tools</h2>
